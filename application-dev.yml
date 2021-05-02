@@ -1,5 +1,2 @@
 mysql:
-	user:fuxin
-	
-person:
-	name：fuxin
+	slogan: fuxin
